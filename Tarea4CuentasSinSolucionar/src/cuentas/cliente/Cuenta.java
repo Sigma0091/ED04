@@ -2,12 +2,12 @@ package cuentas.cliente;
 
 /**
  * @author Ismael
- * @version 2
+ * @version 2.1
  * @since 1
  */
 public class Cuenta {
 
-
+//modificacion para github 1 Cuenta
     private String nombre;
     private String cuenta;
     private double saldo;
