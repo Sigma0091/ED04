@@ -2,11 +2,11 @@ package cuentas.cliente;
 
 /**
  * @author Ismael
- * @version 2.1
+ * @version 2.2
  * @since 1
  */
 public class Main {
-//Modificación para github 1 Main
+//Modificación para github 2 Main
     /**
      * Método principal para probar la funcionalidad de la clase Cuenta.
      *
